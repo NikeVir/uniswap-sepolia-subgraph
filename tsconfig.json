@@ -1,5 +1,5 @@
 {
-  "extends": "@graphprotocol/graph-ts/tsconfig",
+  "extends": "@graphprotocol/graph-ts/typestsconfig",
   "compilerOptions": {
     "types": ["@graphprotocol/graph-ts"]
   }
